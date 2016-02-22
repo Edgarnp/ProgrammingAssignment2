@@ -1,5 +1,8 @@
 ## Put comments here that give an overall description of what your
 ## functions do
+## Following the example of the means cache generator and retriever
+## these functions will set into cache, get from cache and set / get the inverse
+## of an invertible matrix passed as X to the makeCacheMatrix function
 
 ## Write a short comment describing this function
 ## MakeCacheMatrix takes a matrix and builds a new object
